@@ -10,7 +10,7 @@ export const overrideStyle = {
 let production = 'production'
 let local = 'local'
 
-let mode = local
+let mode = production
 
 let app_url = ""
 let api_url = ""
