@@ -16,7 +16,7 @@ let app_url = ""
 let api_url = ""
 
 if (mode === production) {
-    app_url = 'http://localhost:3000'
+    app_url = 'https://my-shop-dashboard-murex.vercel.app'
     api_url = "https://backend-cxqu.onrender.com"
 } else {
     app_url = 'http://localhost:3000'
